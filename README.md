@@ -19,4 +19,4 @@ Those programs where tested with Nvidia Jetson Nano (L4T OS).
 Code has been changed to avoid border effect error (array index out of range)
 
 License statement :
-Those programs re free of use for any kind of use.
+Those programs are free of use for any kind of use.
